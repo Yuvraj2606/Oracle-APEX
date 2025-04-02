@@ -1,0 +1,10 @@
+ About Application :
+ 
+  Hi , I'm Yuvraj Varshney during my training in AWC SOFTWARE PVT LTD , Sometime I was worked on Oracle APEX. 
+  So, I create an application Stocks_Applicaton basically its an application for those who have an agency of any item means purchased the item in bulk and sell them in market as per requirement. 
+  In this application we have four blocks (STOCK_RECEIVED_REPORT , STOCK_SELL_FORM , STOCK_SELL_REPORT , STOCK_AVAILABLE_REPORT).
+  In STOCK_RECEIVED_REPORT , we have all data related to recevied by supplier in bulk like quantity, date , rate , bill and etc. And here we add data in report by a form(New Data).
+  In STOCK_SELL_FORM , it basically a bill created by supplier for their customer by this automatically STOCK_SELL_REPORT , STOCK_AVAILABLE_REPORT update and this is handle by PL/SQL(Procedure).
+  
+  So , unzip that file and enjoy the tour of application 
+  
